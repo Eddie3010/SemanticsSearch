@@ -1,1 +1,1 @@
-# Semantics Search for ecommmerce
+# Semantics Search for E-commerce Website (NLP)
